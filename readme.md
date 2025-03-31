@@ -29,3 +29,6 @@ Con la informacion obtenida en el formulario crear un objeto : ``Usuario``
 Para este trabajo práctico los nombres de las variables y funciones son a criterio 🧠 del o la estudiante 🦾
 
 Pueden darle estilo 🖌️ al formulario para que sea agradable visualmente (pero no se maten 🤯)
+
+
+Alberto C
